@@ -94,5 +94,14 @@ namespace FolderCheckerMSFS
             else
             { MessageBox.Show("Der Link ist nicht korrekt"); }
 }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            if(Directory.Exists(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)+ "\\Microsoft Flight Simulator\\Packages\\Community"))
+            {
+                textBox1.Text = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\Microsoft Flight Simulator\\Packages\\Community";
+            }
+            progressBar1.BackColor = Color.Black;
+        }
     }
 }

@@ -8,3 +8,13 @@ C:\Users\kev\source\repos\FolderCheckerMSFS\FolderCheckerMSFS\obj\Debug\FolderCh
 C:\Users\kev\source\repos\FolderCheckerMSFS\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.csproj.CoreCompileInputs.cache
 C:\Users\kev\source\repos\FolderCheckerMSFS\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.exe
 C:\Users\kev\source\repos\FolderCheckerMSFS\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.pdb
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\bin\Debug\FolderCheckerMSFS.exe.config
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\bin\Debug\FolderCheckerMSFS.exe
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\bin\Debug\FolderCheckerMSFS.pdb
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.csproj.AssemblyReference.cache
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.Form1.resources
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.Properties.Resources.resources
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.csproj.GenerateResource.cache
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.exe
+C:\Users\Kevin Grieshaber\Documents\GitHub\MSFSFolderChecker\FolderCheckerMSFS\obj\Debug\FolderCheckerMSFS.pdb
